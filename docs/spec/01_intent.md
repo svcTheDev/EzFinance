@@ -10,11 +10,12 @@ The user has to download different bank trasactions distributed across different
 
 ### 2.1 What happens because of the problem?
 
-The user does not know whether their expenses stay within  budget, which could negatively affect their quality of life and financial well-being 
+The user lacks a clear and updated view of their spending, making it harder to identify excessive spending or changes in financial behavior.
+
 
 ### 2.2 What outcome should improve?
 
-The user should be able to reduce the impact of unforeseen expenses and avoid going over budget
+The user should be able to understand spending patterns and identify potential overspending earlier.
 
 ## 3. Primary user
 
@@ -40,20 +41,20 @@ The project will be able to:
 - View transactions 
 - Filter transactions
 - Aggregate financial data
-- Allow the user to manually assign a category to a transaction.- Display financial overbview
+- Allow the user to manually assign a category to a transaction.
+- Display financial overview
 - Generate a dynamic dashboard
 
 ### 5.1 Supported sources in V1:
-- Receive bank transactions from Falabella and Bancolombia
-- Receive XLSX
-
+- Support bank transactions from Falabella and Bancolombia
+- Support XLSX bank statements.
 
 ## 6. Out of scope
 
 - More complex dashboards
 - Automatic categorization of expenses
 - A Chatbot with full context of the user's budget
-- The app will be available anyone who want visibility over personal finances
+- Public or multi-user access.
 - Besides current banks, it will receive bank transactions from Nequi and Davivienda
 - Will support PDF files 
 
