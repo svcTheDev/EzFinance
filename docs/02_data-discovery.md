@@ -1,0 +1,1 @@
+0.2 — Data discovery. Aquí está la parte más importante de todo el Paso 0: abrir un XLSX real de Bancolombia, uno de Falabella y tu Excel actual. Tu propia documentación ya reconoce que estos archivos deben analizarse antes de diseñar definitivamente la estructura.

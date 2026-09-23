@@ -1,0 +1,1 @@
+0.1 — Product spec. Qué problema resolvemos, para quién, objetivos, scope, out-of-scope y criterios de éxito.
