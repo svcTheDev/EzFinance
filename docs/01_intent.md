@@ -43,6 +43,7 @@ The project will be able to:
 - Aggregate financial data
 - Allow the user to manually assign a category to a transaction.
 - Display financial overview
+- Rule-based reuse of previous manual classification
 - Generate a dynamic dashboard
 
 ### 5.1 Supported sources in V1:
@@ -52,18 +53,26 @@ The project will be able to:
 ## 6. Out of scope
 
 - More complex dashboards
-- Automatic categorization of expenses
+- AI/automatic categorization from scratch
 - A Chatbot with full context of the user's budget
 - Public or multi-user access.
 - Besides current banks, it will receive bank transactions from Nequi and Davivienda
-- Will support PDF files 
-
+- FIRE Tracker / financial Goals
+- Responsive/mobile layouts.
+- PDF imports
+- Subcategories of expenses 
+- Bank based transaction filtering or visualization
 
 ## 7. Constraints
 
 - The MVP must be completed in 3 weeks
 - First iteration will be a web application
 - The MVP will not have user authentication yet, I will be the primary user testing all functions
+- The MVP is desktop-first and will not be responsive.
+- The MVP supports XLSX files only.
+- The MVP will contain four main application sections:
+  Dashboard, Import, Transactions and Categories.
+- The website application interface will be just in spanish
 
 
 ## 8. Risks

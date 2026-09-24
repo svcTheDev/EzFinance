@@ -1,1 +1,0 @@
-Descargar los Excel de Bancolombia y Falabella → subirlos → poder saber cuánto gastaste ese mes sin copiar/pegar movimientos ni reconstruir tablas dinámicas.
